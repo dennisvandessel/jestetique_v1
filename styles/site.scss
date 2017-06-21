@@ -1,0 +1,90 @@
+/*
+@media screen and (max-width: 767px) {} XS
+@media screen and (min-width: 768px) and (max-width: 991px) {} SM
+@media screen and (min-width: 992px) {} MD */
+
+
+
+
+
+
+
+
+html, body {
+    font-family: serif;
+    background-color: #FFF3F5;
+    color: #A49050;
+    text-align: justify;
+    letter-spacing: 0.5px;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: #A49050;
+    letter-spacing: 0.5px;
+}
+
+a.met-aanduiding {
+    text-decoration: underline;
+}
+
+a:hover, a:focus {
+    text-decoration: underline;
+    color: #655216;
+}
+
+ 
+ .fa {
+    margin-right: 10px;
+}
+
+.fa.fa-rechts{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+.btn {
+    background-image: none;
+    border: none;
+    color: #A49050;
+  
+}
+
+.btn:hover, .btn:focus {
+    background-image: none;
+    border: none;
+    background-color: #F7ADBD;
+    color: #A49050;
+}
+.btn-primary, .btn:focus, .btn:hover {
+    background-image: none;
+    border: none;
+    background-color: #F7ADBD;
+}
+
+.container {
+    
+    background: white;
+}
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

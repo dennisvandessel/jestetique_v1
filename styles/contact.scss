@@ -1,0 +1,78 @@
+
+
+
+.contact img.img-circle {
+    width: 210px;
+    height: 210px;
+}
+
+.contact .contact-jessica {
+    
+    font-weight: bolder;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    
+    
+    font-size: 21px;
+    letter-spacing: 1px;
+    margin-top: 0;   
+}
+
+.contact .contact-adres {
+    margin-bottom: 15px;       
+}
+.contact .contact-kanalen {
+    
+}
+.contact .contact-kanaal {
+    margin-bottom: 10px;
+}
+.contact .contact-tel {
+    font-weight: bold;
+}
+
+.contact .contact-extra {
+
+}
+
+.contact .contact-extra-item {
+    margin-bottom: 10px;
+}
+
+
+.contact .contact-extra-titel {
+    margin-right: 10px;
+    
+}
+
+.contact .contact-extra-waarde {
+    font-style: italic;
+}
+
+span.nadruk {
+    font-weight: bold;
+}
+
+.bijtekst {
+    font-style: italic;
+}
+
+.google-map iframe {
+    width: 100%;
+    min-height: 500px;
+    border-radius: 8px;
+}
+
+
+@media screen and (max-width: 991px) {
+
+
+
+    .contact .contact-jessica {
+        margin-top: 25px;
+    }
+
+
+}
+
+

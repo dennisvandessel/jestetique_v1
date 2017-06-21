@@ -1,0 +1,187 @@
+
+
+
+
+.content {
+
+    padding-top: 15px;
+    padding-bottom: 40px;
+    margin-left:35px;
+    margin-right:35px;
+}
+
+.content .content-block, content-block-space {
+    margin-bottom: 20px;
+}
+
+
+.content .content-block-space {
+    margin-top: 50px;
+}
+
+.content-image {
+    width: 100%;
+    border-radius: 8px;
+}
+
+
+
+
+.thumbnails  a:hover, .thumbnails  a:focus {
+    text-decoration: none;
+}
+
+
+.thumbnail-item {
+    border: 0;
+    box-shadow: none;
+    padding: 5px 15px 25px 15px;
+    border-radius: 8px;
+ 
+}
+
+.thumbnail-item:hover, .thumbnail-item:hover {
+    background: #FFF3F5;
+}
+
+
+
+
+.thumbnail-item > img  {
+    height: 210px;
+    width: 210px;    
+}
+
+
+.thumbnail-item h3  {
+    color: #DD5D79;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+h1 {
+     text-transform: uppercase;
+     letter-spacing: 2px;
+     text-align: center;
+     padding-bottom: 20px;
+}
+
+h2 {
+     text-transform: uppercase;
+     letter-spacing: 2px;
+     padding-bottom: 5px;
+     text-align: center;
+}
+
+.product ul {
+    list-style-type: none;
+    padding-left:0;
+}
+
+
+.product ul li {
+    padding-bottom: 7px;
+}
+
+
+.product ul li.space-before {
+    padding-top: 15px;
+}
+
+.product-titel {
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    width: 100%;
+    background-color: #EFE1B4;
+    padding-top: 8px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 8px;
+    position: relative;
+    text-align: right;
+}
+
+
+
+.product-naam {    
+    float: left;
+}
+
+.product-prijs {
+    text-transform: none;
+    text-align: right;
+}
+
+.product-detail {
+    margin-top: 5px;
+    margin-bottom: 18px;
+}
+
+.fa.fa-eur {
+     margin-right: 5px;
+}
+
+
+
+.logo-klein {
+    background-image: url("../img/logobackklein.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: -25px; 
+    
+    
+}
+
+.logo-klein img {
+
+    padding-left: 25px;    
+    padding-right: 25px;
+}
+
+.logo-samenwerking {
+
+    display: inline;
+}
+
+
+
+
+@media screen and (max-width: 767px) {
+    h1 {
+        font-size: 30px;
+        padding-bottom: 14px;
+    }
+    h2 {
+  
+     font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+  .content {
+    
+    margin-left:10px;
+    margin-right:10px;
+    }
+    
+    .thumbnail-item h3  {
+        font-size: 20px;
+    }
+    
+ 
+
+}
+
+
+
+
+@media screen and (min-width: 992px) {
+    .content-image-offset-top {
+        margin-top: 66px;
+    }  
+
+
+}

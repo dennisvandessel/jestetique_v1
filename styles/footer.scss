@@ -1,0 +1,91 @@
+
+.footer {
+    border-top: 1px solid #A49050;
+    
+    /*background: #FCD2DB; */
+    background: #f9d2de; /*color from logo*/
+    margin-left: -15px;
+    margin-right: -15px;
+    padding: 25px 15px 50px 15px;
+    
+}
+
+
+.footer .footer-container {
+     
+}
+
+.footer .footer-links ul {
+     list-style-type: none;
+}
+
+
+.footer .footer-links ul li{
+    margin-bottom: 14px;
+    
+}
+
+.footer .footer-center {
+    }
+
+.footer .footer-phone {
+    font-size:    24px;
+    letter-spacing: 2px;   
+    }
+
+
+.footer .footer-bancontact {
+    margin-top: 87px;
+    margin-left: 20px;   
+    }
+
+.footer .footer-right {
+    margin-top: -4px;
+}
+
+.footer .footer-naam {
+  font-weight: bold;
+  text-transform: uppercase;
+ letter-spacing: 1px;
+ font-size:    22px;
+ margin-left:-10px;
+   margin-bottom: 0;
+}
+
+
+
+.footer .footer-adres {
+    margin-top: -5px;
+  margin-bottom: 7px;   
+}
+
+
+
+
+@media screen and (max-width: 991px) {
+
+    
+   .footer .footer-links {
+       margin-left: -38px;
+   }
+    
+    
+.footer .footer-bancontact {
+    margin-top: 15px;   
+    margin-left: 0;
+    }
+
+   .footer .footer-center, .footer .footer-right {
+        border-top: 1px dotted #A49050;
+        margin-top: 25px;
+        padding-top: 25px;
+        text-align: left;
+    }   
+
+
+
+
+}
+
+
+

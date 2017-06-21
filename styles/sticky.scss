@@ -1,0 +1,24 @@
+.sticky {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    border-radius: 8px 0 0 0;
+    background-color: #DD5D79;
+    color: white;
+    width: 250px;
+    height: 55px;
+    
+    font-size:    24px;
+    letter-spacing: 2px;   
+}
+
+.sticky-phone {
+    color: white;
+}
+
+.sticky > div {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    
+}
